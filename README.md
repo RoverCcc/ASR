@@ -1,4 +1,4 @@
-#Parcours Architecture, Systèmes et Réseaux
+Parcours Architecture, Systèmes et Réseaux
 
 Département Sciences du Numérique
 
